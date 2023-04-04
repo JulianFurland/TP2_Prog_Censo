@@ -1,0 +1,15 @@
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.csproj.AssemblyReference.cache
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.AssemblyInfoInputs.cache
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.AssemblyInfo.cs
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.csproj.CoreCompileInputs.cache
+Z:\Programación\TP2_Prog_Censo\bin\Debug\net7.0\TP2_Prog_Censo.exe
+Z:\Programación\TP2_Prog_Censo\bin\Debug\net7.0\TP2_Prog_Censo.deps.json
+Z:\Programación\TP2_Prog_Censo\bin\Debug\net7.0\TP2_Prog_Censo.runtimeconfig.json
+Z:\Programación\TP2_Prog_Censo\bin\Debug\net7.0\TP2_Prog_Censo.dll
+Z:\Programación\TP2_Prog_Censo\bin\Debug\net7.0\TP2_Prog_Censo.pdb
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.dll
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\refint\TP2_Prog_Censo.dll
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.pdb
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\TP2_Prog_Censo.genruntimeconfig.cache
+Z:\Programación\TP2_Prog_Censo\obj\Debug\net7.0\ref\TP2_Prog_Censo.dll
