@@ -17,7 +17,9 @@ class Persona{
     }
      public int ObtenerEdad()
     {
-        return ((DateTime.Today.Year*365+DateTime.Today.Month*30+DateTime.Today.Day) - (FechaNacimiento.Year*365+FechaNacimiento.Month*30+FechaNacimiento.Day))/365;
+        int edad = DateTime.Today.Year - FechaNacimiento.Year;
+        if(DateTime.Today.Month < FechaNacimiento.Month||DateTime.Today.Day < FechaNacimiento.Day){edad--;}
+        return edad;
     }
     public bool PuedeVotar(){
         return ObtenerEdad() > 15;

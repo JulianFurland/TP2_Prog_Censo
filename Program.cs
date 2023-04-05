@@ -27,6 +27,8 @@ while(opcion != "5")
     Console.WriteLine("El apellido de la persona es: " + persona2.Apellido);
     Console.WriteLine("La fecha de nacimiento de la persona es: " + persona2.FechaNacimiento);
     Console.WriteLine("El mail de la persona es: " + persona2.Email);
+    Console.WriteLine("La edad de la persona es: " + persona2.ObtenerEdad());
+    Console.WriteLine("Puede votar la persona? " + PuedeVotar());
     break;
     case "4":
     Persona persona3 = GetPersonaDNI(DicPersonas);
